@@ -16,15 +16,14 @@
        
         <img src="https://komarev.com/ghpvc/?username=your-github-abdullayev0535&style=flat-square&color=blue" alt=""/>
 
-        ---
+         hey there
         
-  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" href="https://github.com/Abdullayev0535" width="30px"/>
 
     
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
       
-        ---
+        
         
  :man_technologist:
 I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azeribaijan.
