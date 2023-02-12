@@ -26,9 +26,9 @@
         
         
  :woman_technologist: About Me :
-        
+         :hammer_and_wrench:
              I am a FrontEnd  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
-       :hammer_and_wrench: 
+       
 <p>
     Languages and Tools :
         
