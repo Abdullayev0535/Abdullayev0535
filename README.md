@@ -36,8 +36,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdullayev0535&theme=radical&border_radius=20&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-        
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+<!--         
         
         ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
