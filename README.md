@@ -22,11 +22,11 @@
 
     
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-
+        <p></p>
         
         
  :woman_technologist: About Me :
-            <p> I am a FrontEnd  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.</p>
+             I am a FrontEnd  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
        :hammer_and_wrench: 
        
     Languages and Tools :
