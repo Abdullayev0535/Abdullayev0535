@@ -4,6 +4,6 @@
 
 <div id="badges">
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/abdullayevv691/" alt="https://www.instagram.com/abdullayevv691/"/>
-  <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Twitter Badge"/>
 </div>
