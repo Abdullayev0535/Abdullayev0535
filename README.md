@@ -28,10 +28,9 @@
  :man_technologist:
 
          
-            : I am a FrontEnd  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
        
 
-    ###:hammer_and_wrench: Languages and Tools :
+    :hammer_and_wrench:Languages and Tools :
         
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
