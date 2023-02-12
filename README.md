@@ -26,8 +26,12 @@
         
         
  :man_technologist:
+I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azeribaijan.
 
          
+---
+
+### :hammer_and_wrench: Languages and Tools :
        
 
         
