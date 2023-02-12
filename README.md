@@ -38,7 +38,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdullayev0535&theme=radical&border_radius=20&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
         
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
-
-
-
-
+        
+        [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
