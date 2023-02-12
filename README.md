@@ -15,9 +15,9 @@
         <br>
         <img src="https://komarev.com/ghpvc/?username=your-github-usernameabdullayev0535&style=flat-square&color=blue" alt=""/>
 
-        
+        </div>
         
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" href="https://github.com/Abdullayev0535" width="30px"/>
 
-        </div>
+     
