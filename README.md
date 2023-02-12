@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  <img src="(https://www.instagram.com/abdullayevv691)/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/abdullayevv691/"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/abdullayevv691/"/>
+  <img src="https://img.shields.io/badge/(https://www.instagram.com/abdullayevv691/)-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
